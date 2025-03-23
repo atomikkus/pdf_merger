@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="pdf-manipulator",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Satya",
+    author_email="sprakashk2896@gmail.com",
     description="A tool for merging and extracting pages from PDF files",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pdf-manipulator",
+    url="https://github.com/atomikkus/pdf-manipulator",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
